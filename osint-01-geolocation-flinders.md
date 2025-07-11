@@ -1,5 +1,7 @@
 # My First OSINT Challenge
 
+## 11 July, 2025
+
 I decided to challenge myself with Sophia Santos' OSINT Exercise #002 which can be found here ``https://gralhix.com/list-of-osint-exercises/osint-exercise-002/``
 
 This marks my very first OSINT challenge, and it made for a perfect start.
