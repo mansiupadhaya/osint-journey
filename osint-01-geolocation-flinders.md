@@ -87,6 +87,7 @@ A search of the address (81 City Rd, Southbank VIC) confirmed its location.
 <img width="667" height="608" alt="image" src="https://github.com/user-attachments/assets/2d0c0279-ef94-4a55-8fca-4e2b9780edbe" />
 
 When I Googled "Focus Apartments Melbourne height", one source showed 166m, but digging deeper led me to "Multiplex Global's official page", which confirmed the final height as **167m**.
+
 <img width="375" height="471" alt="image" src="https://github.com/user-attachments/assets/0ded7a51-ef33-495f-add9-f4e82ea42ac7" />
 
 <img width="2298" height="1152" alt="image" src="https://github.com/user-attachments/assets/901b8526-dd2c-4450-93a9-3850fd4a4eaa" />
