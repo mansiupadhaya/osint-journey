@@ -70,7 +70,7 @@ So I returned to Google Street View, dropped the Pegman on Google Maps again and
 
 <img width="2559" height="1218" alt="image" src="https://github.com/user-attachments/assets/cdb56a2a-1107-48ae-a6fa-900561112c0a" />
 
-Looking closely, I noticed a "Central Equity" sign on the building n construction. A quick Google search confirmed that Central Equity is an Australian apartment developer. 
+Looking closely, I noticed a "Central Equity" sign on the building under construction. A quick Google search confirmed that Central Equity is an Australian apartment developer. 
 So, I jumped onto their website to see if I could find a match.
 
 <img width="1182" height="910" alt="image" src="https://github.com/user-attachments/assets/bf023ba5-b6ff-4603-b62b-f2ce5f8d55d4" />
