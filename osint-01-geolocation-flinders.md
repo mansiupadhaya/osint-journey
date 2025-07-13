@@ -60,7 +60,7 @@ A quick Google search showeed its spire stands at **162m** tall.
 
 <img width="718" height="461" alt="image" src="https://github.com/user-attachments/assets/422d39cd-6846-4b25-b853-21ed1ecf2a6f" />
 
-Then I looke into the IBM building next to it.  According to ``SkyscraperCenter``, the IBM Australia building, stands at ``131m`` tall, so not taller than the Arts Centre.
+Then I looked into the IBM building seen in the image. According to ``SkyscraperCenter``, the IBM Australia building, stands at ``131m`` tall, so not taller than the Arts Centre.
 <img width="1948" height="1211" alt="image" src="https://github.com/user-attachments/assets/45ba2750-9d45-4b01-bf4c-3ee3bf77d353" />
 
 At this point, I was fairly convinced that the Arts Centre was the tallest structure.
