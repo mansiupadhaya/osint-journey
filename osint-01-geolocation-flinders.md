@@ -66,7 +66,7 @@ Then I looked into the IBM building seen in the image. According to ``Skyscraper
 At this point, I was fairly convinced that the Arts Centre was the tallest structure.
 But something about the tall blue building in the image felt off. I noticed that the blue building when viewed through Google Earth in 3D view looked a lot taller than it did in the photo. 
 
-So I returned to Google Street View, dropped the Pegman on Google Maps again and found a view from September 2022, where that building was still under construction.
+So I returned to Google Street View, dropped the Pegman on Google Maps again and found a view from April 2022, where that building was still under construction.
 
 <img width="2559" height="1218" alt="image" src="https://github.com/user-attachments/assets/cdb56a2a-1107-48ae-a6fa-900561112c0a" />
 
@@ -76,7 +76,7 @@ So, I jumped onto their website to see if I could find a match.
 <img width="1182" height="910" alt="image" src="https://github.com/user-attachments/assets/bf023ba5-b6ff-4603-b62b-f2ce5f8d55d4" />
 
 They had 2 fairly recent developments listed on their website. One was Parkhill on Spencer Street completed in July 2023, and the other was Focus Melbourne on City Rd, which was completed in 2022,
-matching the timeline of the construction shown in the Google Street View from September 2022.
+matching the timeline of the construction shown in the Google Street View.
 
 <img width="1804" height="1121" alt="image" src="https://github.com/user-attachments/assets/00360684-fa74-4629-98c3-bc0ee22d795a" />
 
